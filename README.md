@@ -14,13 +14,14 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-  ## Technical Skills:
+## Technical Skills:
 - [x]  Expertise in ETL processes, including Extract, Transform, and Load methodologies.
 - [x]  Capability to generate a comprehensive date table using Power Query.
 - [x]  Skill in deriving fiscal months and quarters for analytical reporting.
 - [x]  Establishing and managing data model relationships using Power Pivot.
 - [x]  Proficiency in integrating additional datasets into an existing data model.
 - [x]  Using DAX to develop calculated columns for enhanced data insights.
+      
 ## Soft Skills:
 - [x]   Strong analytical understanding of Sales Reports.
 - [x]   Crafting user-friendly reports with a focus on usability and clarity.
